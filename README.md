@@ -3,7 +3,7 @@
 - Clone this repository and create a branch to complete your answers. When done create a Pull Request against master branch.
 - For python exercises use provided `.py` files to complete your answers.
 - Feel free to change original code if needed.
-- Write answers to SQL questions on the provided file.
+- Write answers to SQL questions on the file on following link [SQL Exercice](https://docs.google.com/document/d/1zGh8KkGwFbNjUlmaczLSxXadzLxZmwsWyT5Avc6ZE5g/edit)
 
 ### Python Exercises
 
